@@ -1,0 +1,347 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\faridin\\source\\repos\\ConsoleApp49\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5728FCD1-18D6-452B-B535-FE2253FFABA8}|ConsoleApp49\\ConsoleApp49.csproj|c:\\users\\faridin\\source\\repos\\consoleapp49\\consoleapp49\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5728FCD1-18D6-452B-B535-FE2253FFABA8}|ConsoleApp49\\ConsoleApp49.csproj|solutionrelative:consoleapp49\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5728FCD1-18D6-452B-B535-FE2253FFABA8}|ConsoleApp49\\ConsoleApp49.csproj|c:\\users\\faridin\\source\\repos\\consoleapp49\\consoleapp49\\interfaces\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5728FCD1-18D6-452B-B535-FE2253FFABA8}|ConsoleApp49\\ConsoleApp49.csproj|solutionrelative:consoleapp49\\interfaces\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5728FCD1-18D6-452B-B535-FE2253FFABA8}|ConsoleApp49\\ConsoleApp49.csproj|c:\\users\\faridin\\source\\repos\\consoleapp49\\consoleapp49\\configuration\\rentalconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5728FCD1-18D6-452B-B535-FE2253FFABA8}|ConsoleApp49\\ConsoleApp49.csproj|solutionrelative:consoleapp49\\configuration\\rentalconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5728FCD1-18D6-452B-B535-FE2253FFABA8}|ConsoleApp49\\ConsoleApp49.csproj|c:\\users\\faridin\\source\\repos\\consoleapp49\\consoleapp49\\configuration\\penaltyconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5728FCD1-18D6-452B-B535-FE2253FFABA8}|ConsoleApp49\\ConsoleApp49.csproj|solutionrelative:consoleapp49\\configuration\\penaltyconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5728FCD1-18D6-452B-B535-FE2253FFABA8}|ConsoleApp49\\ConsoleApp49.csproj|c:\\users\\faridin\\source\\repos\\consoleapp49\\consoleapp49\\configuration\\paymentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5728FCD1-18D6-452B-B535-FE2253FFABA8}|ConsoleApp49\\ConsoleApp49.csproj|solutionrelative:consoleapp49\\configuration\\paymentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5728FCD1-18D6-452B-B535-FE2253FFABA8}|ConsoleApp49\\ConsoleApp49.csproj|c:\\users\\faridin\\source\\repos\\consoleapp49\\consoleapp49\\configuration\\maintenancerecordconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5728FCD1-18D6-452B-B535-FE2253FFABA8}|ConsoleApp49\\ConsoleApp49.csproj|solutionrelative:consoleapp49\\configuration\\maintenancerecordconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5728FCD1-18D6-452B-B535-FE2253FFABA8}|ConsoleApp49\\ConsoleApp49.csproj|c:\\users\\faridin\\source\\repos\\consoleapp49\\consoleapp49\\configuration\\customerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5728FCD1-18D6-452B-B535-FE2253FFABA8}|ConsoleApp49\\ConsoleApp49.csproj|solutionrelative:consoleapp49\\configuration\\customerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5728FCD1-18D6-452B-B535-FE2253FFABA8}|ConsoleApp49\\ConsoleApp49.csproj|c:\\users\\faridin\\source\\repos\\consoleapp49\\consoleapp49\\configuration\\carconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5728FCD1-18D6-452B-B535-FE2253FFABA8}|ConsoleApp49\\ConsoleApp49.csproj|solutionrelative:consoleapp49\\configuration\\carconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5728FCD1-18D6-452B-B535-FE2253FFABA8}|ConsoleApp49\\ConsoleApp49.csproj|c:\\users\\faridin\\source\\repos\\consoleapp49\\consoleapp49\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5728FCD1-18D6-452B-B535-FE2253FFABA8}|ConsoleApp49\\ConsoleApp49.csproj|solutionrelative:consoleapp49\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5728FCD1-18D6-452B-B535-FE2253FFABA8}|ConsoleApp49\\ConsoleApp49.csproj|c:\\users\\faridin\\source\\repos\\consoleapp49\\consoleapp49\\entity\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5728FCD1-18D6-452B-B535-FE2253FFABA8}|ConsoleApp49\\ConsoleApp49.csproj|solutionrelative:consoleapp49\\entity\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\faridin\\source\\repos\\ConsoleApp49\\ConsoleApp49\\Migrations\\20261016161034_oo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp49\\Migrations\\20261016161034_oo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\faridin\\source\\repos\\ConsoleApp49\\ConsoleApp49\\Migrations\\20261016154544_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp49\\Migrations\\20261016154544_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5728FCD1-18D6-452B-B535-FE2253FFABA8}|ConsoleApp49\\ConsoleApp49.csproj|c:\\users\\faridin\\source\\repos\\consoleapp49\\consoleapp49\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5728FCD1-18D6-452B-B535-FE2253FFABA8}|ConsoleApp49\\ConsoleApp49.csproj|solutionrelative:consoleapp49\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5728FCD1-18D6-452B-B535-FE2253FFABA8}|ConsoleApp49\\ConsoleApp49.csproj|c:\\users\\faridin\\source\\repos\\consoleapp49\\consoleapp49\\entity\\penalty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5728FCD1-18D6-452B-B535-FE2253FFABA8}|ConsoleApp49\\ConsoleApp49.csproj|solutionrelative:consoleapp49\\entity\\penalty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5728FCD1-18D6-452B-B535-FE2253FFABA8}|ConsoleApp49\\ConsoleApp49.csproj|c:\\users\\faridin\\source\\repos\\consoleapp49\\consoleapp49\\entity\\maintenancerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5728FCD1-18D6-452B-B535-FE2253FFABA8}|ConsoleApp49\\ConsoleApp49.csproj|solutionrelative:consoleapp49\\entity\\maintenancerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5728FCD1-18D6-452B-B535-FE2253FFABA8}|ConsoleApp49\\ConsoleApp49.csproj|c:\\users\\faridin\\source\\repos\\consoleapp49\\consoleapp49\\entity\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5728FCD1-18D6-452B-B535-FE2253FFABA8}|ConsoleApp49\\ConsoleApp49.csproj|solutionrelative:consoleapp49\\entity\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5728FCD1-18D6-452B-B535-FE2253FFABA8}|ConsoleApp49\\ConsoleApp49.csproj|c:\\users\\faridin\\source\\repos\\consoleapp49\\consoleapp49\\entity\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5728FCD1-18D6-452B-B535-FE2253FFABA8}|ConsoleApp49\\ConsoleApp49.csproj|solutionrelative:consoleapp49\\entity\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5728FCD1-18D6-452B-B535-FE2253FFABA8}|ConsoleApp49\\ConsoleApp49.csproj|c:\\users\\faridin\\source\\repos\\consoleapp49\\consoleapp49\\entity\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5728FCD1-18D6-452B-B535-FE2253FFABA8}|ConsoleApp49\\ConsoleApp49.csproj|solutionrelative:consoleapp49\\entity\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5728FCD1-18D6-452B-B535-FE2253FFABA8}|ConsoleApp49\\ConsoleApp49.csproj|c:\\users\\faridin\\source\\repos\\consoleapp49\\consoleapp49\\enum\\paymenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5728FCD1-18D6-452B-B535-FE2253FFABA8}|ConsoleApp49\\ConsoleApp49.csproj|solutionrelative:consoleapp49\\enum\\paymenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\faridin\\source\\repos\\ConsoleApp49\\ConsoleApp49\\Interfaces\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "ConsoleApp49\\Interfaces\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\faridin\\source\\repos\\ConsoleApp49\\ConsoleApp49\\Interfaces\\ICustomerService.cs",
+              "RelativeToolTip": "ConsoleApp49\\Interfaces\\ICustomerService.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T16:36:20.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICarService.cs",
+              "DocumentMoniker": "C:\\Users\\faridin\\source\\repos\\ConsoleApp49\\ConsoleApp49\\Interfaces\\ICarService.cs",
+              "RelativeDocumentMoniker": "ConsoleApp49\\Interfaces\\ICarService.cs",
+              "ToolTip": "C:\\Users\\faridin\\source\\repos\\ConsoleApp49\\ConsoleApp49\\Interfaces\\ICarService.cs",
+              "RelativeToolTip": "ConsoleApp49\\Interfaces\\ICarService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA6wCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T16:31:33.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RentalConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\faridin\\source\\repos\\ConsoleApp49\\ConsoleApp49\\Configuration\\RentalConfiguration.cs",
+              "RelativeDocumentMoniker": "ConsoleApp49\\Configuration\\RentalConfiguration.cs",
+              "ToolTip": "C:\\Users\\faridin\\source\\repos\\ConsoleApp49\\ConsoleApp49\\Configuration\\RentalConfiguration.cs",
+              "RelativeToolTip": "ConsoleApp49\\Configuration\\RentalConfiguration.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T16:27:14.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PenaltyConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\faridin\\source\\repos\\ConsoleApp49\\ConsoleApp49\\Configuration\\PenaltyConfiguration.cs",
+              "RelativeDocumentMoniker": "ConsoleApp49\\Configuration\\PenaltyConfiguration.cs",
+              "ToolTip": "C:\\Users\\faridin\\source\\repos\\ConsoleApp49\\ConsoleApp49\\Configuration\\PenaltyConfiguration.cs",
+              "RelativeToolTip": "ConsoleApp49\\Configuration\\PenaltyConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T16:25:37.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaymentConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\faridin\\source\\repos\\ConsoleApp49\\ConsoleApp49\\Configuration\\PaymentConfiguration.cs",
+              "RelativeDocumentMoniker": "ConsoleApp49\\Configuration\\PaymentConfiguration.cs",
+              "ToolTip": "C:\\Users\\faridin\\source\\repos\\ConsoleApp49\\ConsoleApp49\\Configuration\\PaymentConfiguration.cs",
+              "RelativeToolTip": "ConsoleApp49\\Configuration\\PaymentConfiguration.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T16:21:49.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MaintenanceRecordConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\faridin\\source\\repos\\ConsoleApp49\\ConsoleApp49\\Configuration\\MaintenanceRecordConfiguration.cs",
+              "RelativeDocumentMoniker": "ConsoleApp49\\Configuration\\MaintenanceRecordConfiguration.cs",
+              "ToolTip": "C:\\Users\\faridin\\source\\repos\\ConsoleApp49\\ConsoleApp49\\Configuration\\MaintenanceRecordConfiguration.cs",
+              "RelativeToolTip": "ConsoleApp49\\Configuration\\MaintenanceRecordConfiguration.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T16:19:31.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\faridin\\source\\repos\\ConsoleApp49\\ConsoleApp49\\Configuration\\CustomerConfiguration.cs",
+              "RelativeDocumentMoniker": "ConsoleApp49\\Configuration\\CustomerConfiguration.cs",
+              "ToolTip": "C:\\Users\\faridin\\source\\repos\\ConsoleApp49\\ConsoleApp49\\Configuration\\CustomerConfiguration.cs",
+              "RelativeToolTip": "ConsoleApp49\\Configuration\\CustomerConfiguration.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T16:15:00.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CarConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\faridin\\source\\repos\\ConsoleApp49\\ConsoleApp49\\Configuration\\CarConfiguration.cs",
+              "RelativeDocumentMoniker": "ConsoleApp49\\Configuration\\CarConfiguration.cs",
+              "ToolTip": "C:\\Users\\faridin\\source\\repos\\ConsoleApp49\\ConsoleApp49\\Configuration\\CarConfiguration.cs",
+              "RelativeToolTip": "ConsoleApp49\\Configuration\\CarConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T16:12:31.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20261016161034_oo.cs",
+              "DocumentMoniker": "C:\\Users\\faridin\\source\\repos\\ConsoleApp49\\ConsoleApp49\\Migrations\\20261016161034_oo.cs",
+              "RelativeDocumentMoniker": "ConsoleApp49\\Migrations\\20261016161034_oo.cs",
+              "ToolTip": "C:\\Users\\faridin\\source\\repos\\ConsoleApp49\\ConsoleApp49\\Migrations\\20261016161034_oo.cs",
+              "RelativeToolTip": "ConsoleApp49\\Migrations\\20261016161034_oo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T16:10:34.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20261016154544_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\faridin\\source\\repos\\ConsoleApp49\\ConsoleApp49\\Migrations\\20261016154544_Initial.cs",
+              "RelativeDocumentMoniker": "ConsoleApp49\\Migrations\\20261016154544_Initial.cs",
+              "ToolTip": "C:\\Users\\faridin\\source\\repos\\ConsoleApp49\\ConsoleApp49\\Migrations\\20261016154544_Initial.cs",
+              "RelativeToolTip": "ConsoleApp49\\Migrations\\20261016154544_Initial.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T15:45:44.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\faridin\\source\\repos\\ConsoleApp49\\ConsoleApp49\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ConsoleApp49\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\faridin\\source\\repos\\ConsoleApp49\\ConsoleApp49\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "ConsoleApp49\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T15:30:55.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Penalty.cs",
+              "DocumentMoniker": "C:\\Users\\faridin\\source\\repos\\ConsoleApp49\\ConsoleApp49\\Entity\\Penalty.cs",
+              "RelativeDocumentMoniker": "ConsoleApp49\\Entity\\Penalty.cs",
+              "ToolTip": "C:\\Users\\faridin\\source\\repos\\ConsoleApp49\\ConsoleApp49\\Entity\\Penalty.cs",
+              "RelativeToolTip": "ConsoleApp49\\Entity\\Penalty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T15:27:23.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MaintenanceRecord.cs",
+              "DocumentMoniker": "C:\\Users\\faridin\\source\\repos\\ConsoleApp49\\ConsoleApp49\\Entity\\MaintenanceRecord.cs",
+              "RelativeDocumentMoniker": "ConsoleApp49\\Entity\\MaintenanceRecord.cs",
+              "ToolTip": "C:\\Users\\faridin\\source\\repos\\ConsoleApp49\\ConsoleApp49\\Entity\\MaintenanceRecord.cs",
+              "RelativeToolTip": "ConsoleApp49\\Entity\\MaintenanceRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T15:26:39.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PaymentType.cs",
+              "DocumentMoniker": "C:\\Users\\faridin\\source\\repos\\ConsoleApp49\\ConsoleApp49\\Enum\\PaymentType.cs",
+              "RelativeDocumentMoniker": "ConsoleApp49\\Enum\\PaymentType.cs",
+              "ToolTip": "C:\\Users\\faridin\\source\\repos\\ConsoleApp49\\ConsoleApp49\\Enum\\PaymentType.cs",
+              "RelativeToolTip": "ConsoleApp49\\Enum\\PaymentType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T15:22:26.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\faridin\\source\\repos\\ConsoleApp49\\ConsoleApp49\\Entity\\Payment.cs",
+              "RelativeDocumentMoniker": "ConsoleApp49\\Entity\\Payment.cs",
+              "ToolTip": "C:\\Users\\faridin\\source\\repos\\ConsoleApp49\\ConsoleApp49\\Entity\\Payment.cs",
+              "RelativeToolTip": "ConsoleApp49\\Entity\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T15:20:12.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\faridin\\source\\repos\\ConsoleApp49\\ConsoleApp49\\Entity\\Customer.cs",
+              "RelativeDocumentMoniker": "ConsoleApp49\\Entity\\Customer.cs",
+              "ToolTip": "C:\\Users\\faridin\\source\\repos\\ConsoleApp49\\ConsoleApp49\\Entity\\Customer.cs",
+              "RelativeToolTip": "ConsoleApp49\\Entity\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T15:18:42.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Rental.cs",
+              "DocumentMoniker": "C:\\Users\\faridin\\source\\repos\\ConsoleApp49\\ConsoleApp49\\Entity\\Rental.cs",
+              "RelativeDocumentMoniker": "ConsoleApp49\\Entity\\Rental.cs",
+              "ToolTip": "C:\\Users\\faridin\\source\\repos\\ConsoleApp49\\ConsoleApp49\\Entity\\Rental.cs",
+              "RelativeToolTip": "ConsoleApp49\\Entity\\Rental.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T15:16:25.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\faridin\\source\\repos\\ConsoleApp49\\ConsoleApp49\\Entity\\Car.cs",
+              "RelativeDocumentMoniker": "ConsoleApp49\\Entity\\Car.cs",
+              "ToolTip": "C:\\Users\\faridin\\source\\repos\\ConsoleApp49\\ConsoleApp49\\Entity\\Car.cs",
+              "RelativeToolTip": "ConsoleApp49\\Entity\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T15:13:55.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\faridin\\source\\repos\\ConsoleApp49\\ConsoleApp49\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp49\\Program.cs",
+              "ToolTip": "C:\\Users\\faridin\\source\\repos\\ConsoleApp49\\ConsoleApp49\\Program.cs",
+              "RelativeToolTip": "ConsoleApp49\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T15:05:07.779Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
