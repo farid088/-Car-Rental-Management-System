@@ -13,6 +13,7 @@
     public string Status { get; set; }
     public List<Payment> Payments { get; set; } = new List<Payment>();
     public List<Penalty> Penalties { get; set; } = new List<Penalty>();
+    
 
     public override string ToString()
     {

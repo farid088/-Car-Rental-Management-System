@@ -1,4 +1,5 @@
-﻿public interface ICarService
+﻿using Microsoft.EntityFrameworkCore;
+public interface ICarService
 {
     Task AddCarAsync(Car car);
     Task<IEnumerable<Car>> GetAllCarsAsync();
@@ -8,8 +9,8 @@
 }
 public class CarService : ICarService
 {
-    private readonly CarRentalDbContext _context;
-    public CarService(CarRentalDbContext context)
+    private readonly AppDbContext _context;
+    public CarService(AppDbContext context)
     {
         _context = context;
     }
